@@ -11,6 +11,7 @@
   <li>Falkon</li>
   <li>Firefox</li>
   <li>Libreoffice</li>
+  <li>Python 2.7.18</li>
   <li>and More!</li>
 </ol>
 <h1>Enjoy :)</h1>
