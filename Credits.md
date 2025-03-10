@@ -5,6 +5,7 @@
 Material Cursors</a></li>
   <li><a href="https://sketchfab.com/3d-models/raspberry-pi-3-2d308283fc0f4d27b81f17a2793c5c4d">The Raspberry Pi 3B 3D Model</a></li>
   <li><a href="https://www.gnome-look.org/p/2106821">Debian Boot Screen</a></li>
-  <li>And To RPI OS and Every Software Included</li>
-  <li>And You Thanks for Reading :)</li>
+  <li><a href="https://github.com/Drewsif/PiShrink">PiShrink</a> and <a href="https://apps.gnome.org/en/DiskUtility/">Gnome Disks</a></li>
+  <li><a href="https://www.raspberrypi.com/software/">RPI OS</a> and Every Software Included</li>
+  <li>And You, Thanks for Reading :)</li>
 </ol>
